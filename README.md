@@ -5,4 +5,4 @@ git clone https://github.com/ShahrokhParazit/Trojan-MEMZ
 
 
 
-Extracted zip file
+Extract The zip file

